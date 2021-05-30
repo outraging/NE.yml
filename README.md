@@ -3,6 +3,7 @@ name: FreeRDP
 on: workflow_dispatch
 
 jobs:
+
   build:
 
     runs-on: windows-latest
